@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Vegre mukszik! :D</title>
+	</head>
+	<body style= "background-color:orange;">
+
+		<h1>Házi feladat</h1>
+        <h2>Zelenák Szabolcs</h2>
+        <h3>Zelenák Szabolcs</h3>
+        <h4>Zelenák Szabolcs</h4>
+        <h5>Zelenák Szabolcs</h5>
+        <h6>Zelenák Szabolcs</h6>
+		<p>Kollázs képem:</p>
+        <img src="https://github.com/ZSzabolcs/collage/blob/main/kollazs.png?raw=true" alt=Kollázs title=Kollázs 		 width=500>
+
+	</body>
+</html>
